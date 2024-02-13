@@ -1,3 +1,5 @@
+trigger ci
+
 # OpenSSL for Ruby
 
 [![Actions Status](https://github.com/ruby/openssl/workflows/CI/badge.svg)](https://github.com/ruby/openssl/actions?workflow=CI)
